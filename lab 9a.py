@@ -1,4 +1,6 @@
 #NAME: Allison Luo
+# lab_9a.py
+# URL to public GitHub repo: https://github.com/allisonluo23/lab9
 
 # Create a rock-paper-scissors game!
 # - Play once and report the result
